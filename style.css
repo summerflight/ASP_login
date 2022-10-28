@@ -54,3 +54,32 @@ button {
   border: 1px solid #3c64b1;
   margin-top: 10px;
 }
+
+.adbtn3 {
+  float: left;
+  text-align: center;
+  color: white;
+  background-color: #3c64b1;
+  border: 1px solid #3c64b1;
+  padding: 7px 13px;
+  border-radius: 4px 0 0 4px;
+  cursor: pointer;
+}
+
+.adbtn4 {
+  float: left;
+  text-align: center;
+  padding: 7px 13px;
+  color: #495057;
+  background-color: white;
+  border: 1px solid #dee2e6;
+  cursor: pointer;
+}
+
+.btns2 {
+  font-size: 13px;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
